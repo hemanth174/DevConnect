@@ -73,5 +73,3 @@ Backend:
 Frontend:
 
 - `VITE_API_URL`
-
-Do not commit `.env` files.
